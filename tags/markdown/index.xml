@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Yang&#39;s Blog</title>
+    <link>https://liuyangnwpu.github.io/tags/markdown/</link>
+    <description>Recent content in Markdown on Yang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 17 Jun 2018 15:13:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://liuyangnwpu.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown Cheatsheet</title>
+      <link>https://liuyangnwpu.github.io/2018/06/17/markdown-cheatsheet/</link>
+      <pubDate>Sun, 17 Jun 2018 15:13:20 +0800</pubDate>
+      
+      <guid>https://liuyangnwpu.github.io/2018/06/17/markdown-cheatsheet/</guid>
+      <description>This is a test for markdown. It comes from markdown cheatsheet by Adam Pritchard with a small modification.
+Markdown Cheatsheet This is intended as a quick reference and showcase. For more complete info, see John Gruber&amp;rsquo;s original spec and the Github-flavored Markdown info page.
+Table of Contents  Headers
+Emphasis
+Lists
+Links
+Images
+Code and Syntax Highlighting
+Tables
+Blockquotes
+Inline HTML
+Horizontal Rule
+Line Breaks
+YouTube Videos
+ Note: Refer to here for making a table of contents, especially for multi-word titles.</description>
+    </item>
+    
+    <item>
+      <title>A Test of this Blog</title>
+      <link>https://liuyangnwpu.github.io/2018/06/16/blogtest/</link>
+      <pubDate>Sat, 16 Jun 2018 15:12:55 +0800</pubDate>
+      
+      <guid>https://liuyangnwpu.github.io/2018/06/16/blogtest/</guid>
+      <description>&lt;p&gt;Test on image, table and equation.&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;pure-g&#34;&gt;
+
+  
+  
+  
+  
+  &lt;div class=&#34;pure-u-1-3&#34;&gt;
+    &lt;div style=&#34;padding: 0 .2em&#34;&gt;
+      &lt;img
+        class=&#34;pure-img-responsive&#34;
+        src=&#34;https://liuyangnwpu.github.io/img/xian.jpg&#34;
+        alt=&#34;&#34;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+  
+  
+  
+  
+  &lt;div class=&#34;pure-u-1-3&#34;&gt;
+    &lt;div style=&#34;padding: 0 .2em&#34;&gt;
+      &lt;img
+        class=&#34;pure-img-responsive&#34;
+        src=&#34;https://liuyangnwpu.github.io/img/xian.jpg&#34;
+        alt=&#34;&#34;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+  
+  
+  
+  
+  &lt;div class=&#34;pure-u-1-3&#34;&gt;
+    &lt;div style=&#34;padding: 0 .2em&#34;&gt;
+      &lt;img
+        class=&#34;pure-img-responsive&#34;
+        src=&#34;https://liuyangnwpu.github.io/img/xian.jpg&#34;
+        alt=&#34;&#34;&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;a href=&#34;https://pixabay.com/zh/%E4%B8%AD%E5%9B%BD-%E8%A5%BF%E5%AE%89-%E9%92%9F%E6%A5%BC-%E5%BB%BA%E7%AD%91-%E9%A3%8E%E5%85%89-%E6%97%85%E6%B8%B8-2506476/&#34;&gt;钟楼，西安&lt;/a&gt; ,
+Photo courtesy of Pixabay.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
